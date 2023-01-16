@@ -2001,8 +2001,9 @@ Intrusion Detection und Intrusion Prevention
 
 - Network Engine
   
-  - analysiert Datenpakete in Echtzeit sendet Alarmmeldungen 
-  - trifft Gegenmassnahmen Benutzer Filter 
+  - analysiert Datenpakete in Echtzeit 
+  - sendet Alarmmeldungen 
+  - trifft Gegenmassnahmen
   - besteht aus Netzwerkadapter, Packet Capture, Filter, Angriffsdet
 
 - Netzwerkadapter 
