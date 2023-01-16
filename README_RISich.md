@@ -2003,7 +2003,7 @@ Intrusion Detection und Intrusion Prevention
   
   - analysiert Datenpakete in Echtzeit sendet Alarmmeldungen 
   - trifft Gegenmassnahmen Benutzer Filter 
-  - besteht aus Netzwerkadapter, Packet Capture, Filter, Angriffsdet
+  - besteht aus Netzwerkadapter, Packet Capture, Filter, Angriffsdetektor und Response Modul
 
 - Netzwerkadapter 
   
